@@ -1,0 +1,1 @@
+-- Database schema for the E-commerce SQL Analysis project
